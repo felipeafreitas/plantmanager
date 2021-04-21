@@ -19,7 +19,7 @@ function Confirmation() {
           Agora vamos começar a cuidar das suas plantinhas com muito cuidado
         </Text>
         <View style={styles.footer}>
-          <Button title="Começar" ></Button>
+          <Button title="Começar"></Button>
         </View>
       </View>
     </SafeAreaView>

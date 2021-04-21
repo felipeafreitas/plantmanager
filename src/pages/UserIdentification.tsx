@@ -40,7 +40,7 @@ function UserIdentification() {
   }
 
   function handleSubmit() {
-    navigation.navigate("UserIdentification");
+    navigation.navigate("Confirmation");
   }
 
   return (
